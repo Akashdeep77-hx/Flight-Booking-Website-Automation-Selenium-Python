@@ -1,8 +1,5 @@
 # Flight-Booking-Website-Automation [Selenium + Python]
 
-<img src='./images/YT.PNG' width=50> Youtube reference: https://www.youtube.com/watch?v=Arg1Wsjqqy8
-
----------------------------------------------------------------------------------------------------
 
 
 In this project the flight booking steps are automated with Selenium WebDriver.
